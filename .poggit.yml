@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/juqn-plugins/Crates_v1
+build-by-default: true
+branches:
+- master
+projects:
+  Crates_v1:
+    path: ""
+...
