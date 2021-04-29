@@ -1,6 +1,6 @@
 name: Crates
 version: 0.1
 author: JuqnDev
-main: juqndev\crates\Crates
+main: juqndev\crates\Loader
 api:
   - 3.0.0
